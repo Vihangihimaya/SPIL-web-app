@@ -1,0 +1,38 @@
+# .gitignore for mixed .NET + Node project
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Vite/React build
+dist/
+
+# .env files
+.env
+.env.*
+
+# .NET
+**/bin/
+**/obj/
+*.db
+*.sqlite
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# JetBrains
+.idea/
+
+# Logs
+.log
