@@ -64,13 +64,8 @@ Click "Add New" to open Screen 1 (Sales Order)
 
 ### Project Structure
 
-src/
-├── components/     # Reusable UI components
-├── pages/         # Screen 1 & Screen 2
-├── redux/         # State management
-├── services/      # API communication
-├── hooks/         # Custom React hooks
-└── utils/         # Helper functions
+<img width="844" height="291" alt="image" src="https://github.com/user-attachments/assets/e06fdb2f-fd5a-4709-b1f5-cb9c7cc4cf0b" />
+
 
 
 
